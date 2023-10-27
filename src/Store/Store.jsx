@@ -4,4 +4,4 @@ import rootReducer from './reducers';
 
 const store = createStore(rootReducer);
 
-export default sore;
+export default store;
